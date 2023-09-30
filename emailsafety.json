@@ -1,0 +1,82 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "As long as it has the bank logo on it click the link",
+        "Click the link and see where it goes",
+        "Delete it! This could be a phishing attempt",
+        "Forward the email to the FBI"
+      ],
+      "correct": {
+        "index": 2,
+        "text": ""
+      },
+      "image": "",
+      "number": 1,
+      "prompt": "You receive an email from your bank telling you to log in to your account and update your contact information.  What should you do?"
+    },
+	{
+      "answers": [
+        "Whaling",
+        "SMS Phishing",
+        "Clone Phishing",
+		"Spear Phishing"
+      ],
+      "correct": {
+        "index": 3,
+        "text": ""
+      },
+      "image": "",
+      "number": 2,
+      "prompt": "Phishing attempts directed at specific individuals or companies known as __________ are by far the most successful on the Internet today, accounting for 91% of attacks."
+    },
+    {
+      "answers": [
+        "Automatic download",
+        "Signature block",
+        "Out-of-office reply",
+        "Message forwarding"
+      ],
+      "correct": {
+        "index": 0,
+        "text": ""
+      },
+      "image": "",
+      "number": 3,
+      "prompt": "In your email settings, which of these features should be disabled?"
+    },
+    {
+      "answers": [
+        "Sure, it's from a trusted vendor",
+        "Maybe, if it was signed by someone I knew",
+        "If it looked similar to others I have received from the vendor",
+		"Heck no!  That is probably a phishing attempt!"
+      ],
+      "correct": {
+        "index": 3,
+        "text": ""
+      },
+      "image": "",
+      "number": 4,
+      "prompt": "You receive an unexpected email that appears to be from the marketing department of one of your vendors, but the URL is misspelled.  Should you click on the URL?"
+    },
+    {
+      "answers": [
+        "Whaling",
+        "Sharking",
+        "High-roller phishing",
+		"Big-wig phishing"
+      ],
+      "correct": {
+        "index": 0,
+        "text": ""
+      },
+      "image": "",
+      "number": 5,
+      "prompt": "What do you call a phishing attempt that specifically targets high-end users, such as corporate executives?"
+    }
+  ],
+  "title": "You've landed on Email Safety.",
+  "subtitle": "", 
+  "url": "https://www.cdse.edu/multimedia/games/cybertrivia/index.html"
+}

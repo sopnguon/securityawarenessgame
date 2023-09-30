@@ -1,0 +1,82 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Someone who intentionally releases top secret information via computer or other electronic means",
+        "Someone who accidentally discloses protected information by storing it in the \"cloud\"",
+        "Someone who copies protected information to a flash drive and gives it to the press",
+		"All of the above"
+      ],
+      "correct": {
+        "index": 3,
+        "text": ""
+      },
+      "image": "",
+      "number": 1,
+      "prompt": "Which of these would not be considered a cyber insider threat?"
+    },
+	{
+      "answers": [
+        "There is no difference",
+        "Insider threats don't use electronic means to steal information",
+        "We voluntarily trust the insider threat with access",
+		"Insider threats are more easily captured"
+      ],
+      "correct": {
+        "index": 2,
+        "text": ""
+      },
+      "image": "",
+      "number": 2,
+      "prompt": "What is the fundamental difference between a cyber insider threat and a hacker?"
+    },
+    {
+      "answers": [
+        "An insider's use of a co-workers credentials",
+        "An insider's use of IT for the unauthorized modification, addition, or deletion of an organization's data",
+        "Modification of an organization's data by an authorized insider",
+        "Addition, or deletion of an organization's data by a trusted insider without approval by the IT supervisor"
+      ],
+      "correct": {
+        "index": 1,
+        "text": ""
+      },
+      "image": "",
+      "number": 3,
+      "prompt": "Which of these best defines Insider Fraud?"
+    },
+    {
+      "answers": [
+        "Most saboteurs had common personal predispositions that contributed to the risk of committing malicious acts.",
+        "Stressful events including organizational sanctions and unmet expectations, contribute to the likelihood of insider IT sabotage.",
+        "Suspicious behaviors were often observable before and during insider IT sabotage and espionage.",
+		"All of the above"
+      ],
+      "correct": {
+        "index": 3,
+        "text": ""
+      },
+      "image": "",
+      "number": 4,
+      "prompt": "Which of the following are true statements about insider sabotage?"
+    },
+    {
+      "answers": [
+        "Alcohol and drug addictions, physical spousal abuse, panic attacks, diagnosed mental health issues",
+        "Insecurity, bullying, sensitivity to criticism, sense of entitlement, lack of impulse control, and self-esteem deficits",
+		"Conflicts with co-workers, hygiene problems, extreme shyness, bullying, petty theft, misuse of resources, falsifying of information, violations of office policies",
+		"All of the above"
+      ],
+      "correct": {
+        "index": 3,
+        "text": ""
+      },
+      "image": "",
+      "number": 5,
+      "prompt": "Which of these are common traits of IT Insider Threats?"
+    }
+  ],
+  "title": "You've landed on Cyber Insider Threat.",
+  "subtitle": "",
+  "url": "https://www.cdse.edu/multimedia/games/cybertrivia/index.html"
+}

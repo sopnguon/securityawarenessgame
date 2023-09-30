@@ -1,0 +1,78 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Be careful what information you share online",
+        "Don't click on untrusted URLs",
+        "Keep your computer's anti-virus up to date",
+        "All of the above"
+      ],
+      "correct": {
+        "index": 3,
+        "text": ""
+      },
+      "image": "",
+      "number": 1,
+      "prompt": "Which of the following is a best practice when using LinkedIn?"
+    },
+	{
+      "answers": [
+        "Use the same password for all social media accounts",
+        "Don't accept friend requests from unknown individuals",
+        "Use the messenger application when communicating sensitive information to co-workers",
+		"Make sure your posts can be seen by anyone"
+      ],
+      "correct": {
+        "index": 1,
+        "text": ""
+      },
+      "image": "",
+      "number": 2,
+      "prompt": "Which of the following is a best practice when using Facebook?"
+    },
+    {
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": {
+        "index": 0,
+        "text": ""
+      },
+      "image": "",
+      "number": 3,
+      "prompt": "True or False, you should check your social media settings periodically to review permissions to your account and data access?"
+    },
+    {
+      "answers": [
+        "Someone who hacks into social media accounts",
+		"Someone who attempts to socialize online with social media users for the purpose of hacking into their account",
+		"Someone who uses a computer to hack into a social media account",
+		"Someone who manipulates people through social interactions (in person, over the phone, or in writing)"
+      ],
+      "correct": {
+        "index": 3,
+        "text": ""
+      },
+      "image": "",
+      "number": 4,
+      "prompt": "Which of these best defines a \"Social Engineer\" or a \"Social Hacker?\""
+    },
+    {
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": {
+        "index": 1,
+        "text": ""
+      },
+      "image": "",
+      "number": 5,
+      "prompt": "True or False, properly setting your Privacy Settings on social media guarantees that you won't be the victim of hacking?"
+    }
+  ],
+  "title": "You've landed on Your Online Presence.",
+  "subtitle": "",
+  "url": "https://www.cdse.edu/multimedia/games/cybertrivia/index.html"
+}

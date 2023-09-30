@@ -1,0 +1,78 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "SMS Phishing",
+        "Text Phishing",
+        "PHoxing",
+        "Phone Phishing"
+      ],
+      "correct": {
+        "index": 0,
+        "text": ""
+      },
+      "image": "",
+      "number": 1,
+      "prompt": "What do you call a security attack in which the user is tricked into providing login credentials, passwords or other sensitive data through messages on a cellular phone or other mobile device? "
+    },
+	{
+      "answers": [
+        "Delete all apps not provided by your employer",
+        "Enable file sharing",
+        "Ensure that files are not encrypted",
+		"Disable Bluetooth and GPS"
+      ],
+      "correct": {
+        "index": 3,
+        "text": ""
+      },
+      "image": "",
+      "number": 2,
+      "prompt": "Before travelling internationally with your smartphone, which of these precautions should you take?"
+    },
+    {
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": {
+        "index": 1,
+        "text": ""
+      },
+      "image": "",
+      "number": 3,
+      "prompt": "True or False? Logging in to a private hotel network while on travel is a best practice."
+    },
+    {
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct": {
+        "index": 0,
+        "text": ""
+      },
+      "image": "",
+      "number": 4,
+      "prompt": "True or False? Disabling GPS services when unnecessary or not in use can help mitigate these potentially physical security risks."
+    },
+    {
+      "answers": [
+        "Scan devices for malware",
+        "Reset your smartphone to factory settings",
+        "Change all passwords",
+        "Don’t connect to the network right away"
+      ],
+      "correct": {
+        "index": 1,
+        "text": ""
+      },
+      "image": "",
+      "number": 5,
+      "prompt": "Which of these steps is not required after returning from foreign travel?"
+    }
+  ],
+  "title": "You've landed on Smartphone and Tablets.",
+  "subtitle": "",
+  "url": "https://www.cdse.edu/multimedia/games/cybertrivia/index.html"
+}

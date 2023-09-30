@@ -1,0 +1,82 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Burglary",
+        "Identity Theft",
+        "Data Theft",
+        "Malware"
+      ],
+      "correct": {
+        "index": 0,
+        "text": ""
+      },
+      "image": "",
+      "number": 3,
+      "prompt": "Posting vacation photos while you are away can lead to which of these?"
+    },
+	{
+      "answers": [
+        "Click-jacking",
+        "Baiting",
+        "Cross-site Scripting (XSS)",
+		"Doxing"
+      ],
+      "correct": {
+        "index": 3,
+        "text": ""
+      },
+      "image": "",
+      "number": 2,
+      "prompt": "Publicly releasing a person's identifying information that was retrieved from social networking site profiles is known as what?"
+    },
+    {
+      "answers": [
+        "Phishing",
+        "Baiting",
+        "Internet scamming",
+		"Pharming"
+       ],
+      "correct": {
+        "index": 2,
+        "text": ""
+      },
+      "image": "",
+      "number": 3,
+      "prompt": "Before the 2010 World Cup, cybercriminals sent emails claiming you won tickets to see the event. This is an example of what?"
+    },
+    {
+      "answers": [
+        "Elicitation",
+        "Baiting",
+        "Phreaking",
+		"Click jacking"
+       ],		  
+      "correct": {
+        "index": 1,
+        "text": ""
+      },
+      "image": "",
+      "number": 4,
+      "prompt": "Someone gives you a USB drive or other electronic media that is preloaded with malware in the hope you will use the device and enable them to hack your computer.  This is an example of what?"
+    },
+    {
+      "answers": [
+        "No, it could be malware",
+        "Sure, if you know and trust your friend",
+		"It's Ok if the site looks real",
+		"I always do!"
+      ],
+      "correct": {
+        "index": 0,
+        "text": ""
+      },
+      "image": "",
+      "number": 5,
+      "prompt": "You receive a message from a Facebook friend directing you to view a video on another site. When you follow the link, you get a message requiring you to download a newer version of software.  Should you download it?"
+    }
+  ],
+  "title": "You've landed on Social Media.",
+  "subtitle": "",
+  "url": "https://www.cdse.edu/multimedia/games/cybertrivia/index.html"
+}
